@@ -1,0 +1,18 @@
+{
+  "name": "iui-kit",
+  "description": "💄 Interactive User Interface Kit",
+  "homepage": "https://npmjs.com/package/iui-kit",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sikessem/iui-kit.git"
+  },
+  "keywords": [
+	"sikessem",
+	"iui-kit"
+  ],
+  "author": "SIGUI Kessé Emmanuel <ske@sikessem.com>",
+  "bugs": {
+    "url": "https://github.com/sikessem/iui-kit/issues"
+  }
+}
